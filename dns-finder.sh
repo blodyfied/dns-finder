@@ -2,7 +2,7 @@
 clear
 figlet DNS-Finder
 echo
-echo "- DNS offensive response - by Francisco Martin aka 'Blodyfied'"
+echo "- DNS offensive response - by Blodyfied"
 echo
 # Solicitar al usuario que ingrese un dominio
 read -p "Enter the domain: " dominio
