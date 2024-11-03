@@ -14,5 +14,7 @@ DNS-Finder is a simple tool that I created that is used to find out the IP and g
 Introduce el dominio: google.es
 
 La IP pública del dominio google.es es: 142.250.179.195
+
 Ubicación: Amsterdam, North Holland, NL
+
 Coordenadas: 52.3740,4.8897
