@@ -18,7 +18,7 @@ PREVIEW SCRIPT:
 | |_| | |\  |___) |_____|  _| | | | | | (_| |  __/ |   
 |____/|_| \_|____/      |_|   |_|_| |_|\__,_|\___|_|   
                                                        
-- DNS offensive response - by Francisco Martin aka 'Blodyfied'
+- DNS offensive response - by Blodyfied
 
 Enter the domain: google.com
 
