@@ -13,6 +13,12 @@ sudo chmod +x dns-finder.sh
 
 PREVIEW SCRIPT:
 
+ ____  _   _ ____        _____ _           _           
+|  _ \| \ | / ___|      |  ___(_)_ __   __| | ___ _ __ 
+| | | |  \| \___ \ _____| |_  | | '_ \ / _` |/ _ \ '__|
+| |_| | |\  |___) |_____|  _| | | | | | (_| |  __/ |   
+|____/|_| \_|____/      |_|   |_|_| |_|\__,_|\___|_|   
+                                                       
 - DNS offensive response - by Francisco Martin aka 'Blodyfied'
 
 Enter the domain: google.com
