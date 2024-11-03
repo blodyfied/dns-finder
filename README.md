@@ -9,7 +9,7 @@ sudo apt install figlet
 
 To give execution permissions to the script we can use the following command:
 
-sudo chmod +x dns-finder.sh
+sudo chmod +x dns-finder
 
 PREVIEW SCRIPT:
 
