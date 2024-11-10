@@ -2,10 +2,6 @@ DNS-Finder is a simple tool that I created that is used to find out the IP and g
 When you download the dns-finder.sh script, you will need to give it execute permissions.
 It is important that you first download a dependency called figlet in order for the script to run correctly. 
 
-You can install it using the following command on Debian/Ubuntu-based distros:
-
-sudo apt install figlet
-
 To give execution permissions to the script we can use the following command:
 
 sudo chmod +x dns-finder.sh
